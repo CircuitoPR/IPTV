@@ -1,0 +1,276 @@
+#EXTM3U:-1,
+
+#EXTINF:-1, Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1,   LAS ESTRELLAS
+http://23.237.122.82:8080/CanalDeLasEstrellas/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=86
+#EXTINF:-1,   LAS ESTRELLAS
+http://23.237.122.82:8080/CanalDeLasEstrellas/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=86/Canal5HD/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=87
+#EXTINF:-1, Imagen TV
+http://23.237.122.82:8080/ImagenTV/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=85
+#EXTINF:-1, Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1, Nu9ve
+http://23.237.122.82:8080/GalaTVHD/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=90
+#EXTINF:-1, Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
+#EXTINF:-1, Unicable
+http://plexonline.club:25461/live/listalistam3ugratis/1/256.ts
+#EXTINF:-1, Tl Novelas
+http://23.237.22.162:8081/live/la-telenovelas/playlist.m3u8
+#EXTINF:-1, Telemundo
+http://plexonline.club:25461/live/listalistam3ugratis/1/371.ts
+#EXTINF:-1, A&E
+http://plexonline.club:25461/live/listalistam3ugratis/1/243.ts
+#EXTINF:-1, Distrito Comedia
+http://plexonline.club:25461/live/listalistam3ugratis/1/335.ts
+#EXTINF:-1,Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1, CNN En Español
+http://plexonline.club:25461/live/listalistam3ugratis/1/162.ts
+#EXTINF:-1, HISTORY
+http://plexonline.club:25461/live/listalistam3ugratis/1/345.ts
+#EXTINF:-1, H2
+http://plexonline.club:25461/live/listalistam3ugratis/1/340.ts
+#EXTINF:-1, Discovery Channel
+http://plexonline.club:25461/live/listalistam3ugratis/1/250.ts
+#EXTINF:-1, Discovery Turbo
+http://plexonline.club:25461/live/listalistam3ugratis/1/149.ts
+#EXTINF:-1, DISCOVERY WORLD
+http://23.237.22.162:8081/live/DISCOVERY-WORLD-HD/playlist.m3u8
+#EXTINF:-1, Animal Planet
+http://plexonline.club:25461/live/listalistam3ugratis/1/251.ts
+#EXTINF:-1, NatGeo
+http://plexonline.club:25461/live/listalistam3ugratis/1/253.ts
+#EXTINF:-1, De Película
+http://plexonline.club:25461/live/listalistam3ugratis/1/264.ts
+#EXTINF:-1, CineCanal
+http://23.237.122.82:8080/CinecanalHD/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=155
+#EXTINF:-1, Golden
+http://23.237.122.82:8080/Golden/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=165
+#EXTINF:-1, Golden Edge
+http://23.237.122.82:8080/GoldenEdge/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=166
+#EXTINF:-1, GOLDEN PLUS
+http://23.237.122.82:8080/GoldenHDPlus/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=157
+#EXTINF:-1, Warner Channel
+http://plexonline.club:25461/live/listalistam3ugratis/1/257.ts
+#EXTINF:-1, Sony
+http://plexonline.club:25461/live/listalistam3ugratis/1/268.ts
+#EXTINF:-1, TNT
+http://plexonline.club:25461/live/listalistam3ugratis/1/261.ts
+#EXTINF:-1, TNT Series
+http://plexonline.club:25461/live/listalistam3ugratis/1/363.ts
+#EXTINF:-1, AXN
+http://plexonline.club:25461/live/listalistam3ugratis/1/241.ts
+#EXTINF:-1, Cinemax
+http://23.237.122.82:8080/Cinemax/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=164
+#EXTINF:-1, Space
+http://plexonline.club:25461/live/listalistam3ugratis/1/247.ts
+#EXTINF:-1, TCM
+http://23.237.122.82:8080/TCM/index.m3u8
+#EXTINF:-1, Studio Universal
+http://plexonline.club:25461/live/listalistam3ugratis/1/262.ts
+#EXTINF:-1, Universal Channel
+http://23.237.122.82:8080/UniversalChannel/index.m3u8
+#EXTINF:-1, SyFy
+http://plexonline.club:25461/live/listalistam3ugratis/1/369.ts
+#EXTINF:-1, Max Up
+http://plexonline.club:25461/live/listalistam3ugratis/1/344.ts
+#EXTINF:-1, FX
+http://plexonline.club:25461/live/listalistam3ugratis/1/338.ts
+#EXTINF:-1, FXM
+http://plexonline.club:25461/live/listalistam3ugratis/1/265.ts
+#EXTINF:-1, Fox
+http://plexonline.club:25461/live/listalistam3ugratis/1/255.ts
+#EXTINF:-1, FOX Life
+http://plexonline.club:25461/live/listalistam3ugratis/1/270.ts
+#EXTINF:-1, FOX Action
+http://plexonline.club:25461/live/listalistam3ugratis/1/239.ts
+#EXTINF:-1, Fox Series
+http://plexonline.club:25461/live/listalistam3ugratis/1/233.ts
+#EXTINF:-1, Fox Cinema
+http://plexonline.club:25461/live/listalistam3ugratis/1/238.ts
+#EXTINF:-1, Fox Classics
+http://plexonline.club:25461/live/listalistam3ugratis/1/237.ts
+#EXTINF:-1, Fox Movies
+http://plexonline.club:25461/live/listalistam3ugratis/1/234.ts
+#EXTINF:-1, Fox Family
+http://plexonline.club:25461/live/listalistam3ugratis/1/235.ts
+#EXTINF:-1, Fox Comedy
+http://plexonline.club:25461/live/listalistam3ugratis/1/236.ts
+#EXTINF:-1, HBO
+http://plexonline.club:25461/live/listalistam3ugratis/1/245.ts
+#EXTINF:-1, HBO 2
+http://plexonline.club:25461/live/listalistam3ugratis/1/240.ts
+#EXTINF:-1, HBO Plus
+http://plexonline.club:25461/live/listalistam3ugratis/1/246.ts
+#EXTINF:-1, HBO Signature
+http://plexonline.club:25461/live/listalistam3ugratis/1/244.ts
+#EXTINF:-1, Discovery Kids
+http://plexonline.club:25461/live/listalistam3ugratis/1/354.ts
+#EXTINF:-1, Boomerang
+http://23.237.22.162:8081/live/la-boomerang-hd/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://plexonline.club:25461/live/listalistam3ugratis/1/159.ts
+#EXTINF:-1, Nick JR
+http://plexonline.club:25461/live/listalistam3ugratis/1/352.ts
+#EXTINF:-1, Nicktoons
+http://23.237.22.162:8081/live/la-nicktoons/playlist.m3u8
+#EXTINF:-1, BitMe
+http://plexonline.club:25461/live/listalistam3ugratis/1/248.ts
+#EXTINF:-1, Bandamax
+http://plexonline.club:25461/live/listalistam3ugratis/1/336.ts
+#EXTINF:-1,ultrabanda
+http://plexonline.club:25461/live/listalistam3ugratis/1/404.ts
+#EXTINF:-1, Telehit
+http://plexonline.club:25461/live/listalistam3ugratis/1/224.ts
+#EXTINF:-1, MTV
+http://plexonline.club:25461/live/listalistam3ugratis/1/326.ts
+#EXTINF:-1, VH1
+http://plexonline.club:25461/live/listalistam3ugratis/1/43.ts
+#EXTINF:-1, ESPN
+http://plexonline.club:25461/live/listalistam3ugratis/1/226.ts
+#EXTINF:-1, ESPN+
+http://23.237.122.82:8080/EspnPlus/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=172
+#EXTINF:-1, Fox Sports
+http://plexonline.club:25461/live/listalistam3ugratis/1/229.ts
+#EXTINF:-1, Fox Sports 3
+http://plexonline.club:25461/live/listalistam3ugratis/1/230.ts
+#EXTINF:-1, TVC Deportes
+http://mylatinotv.com:25461/roygama/roygama/81770
+#EXTINF:-1, Claro Sports
+http://plexonline.club:25461/live/listalistam3ugratis/1/160.ts
+#EXTINF:-1, TNT Sports
+http://plexonline.club:25461/live/listalistam3ugratis/1/347.ts
+#EXTINF:-1,TyC Sports
+http://plexonline.club:25461/live/listalistam3ugratis/1/329.ts
+#EXTINF:-1, Bein Sports ñ
+http://plexonline.club:25461/live/listalistam3ugratis/1/373.ts
+#EXTINF:-1, Movistar LaLiga
+http://plexonline.club:25461/live/listalistam3ugratis/1/299.ts
+#EXTINF:-1,ATB
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+#EXTINF:-1,Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2*
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,ATB TV
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8?fluxustv.m3u8
+#EXTINF:-1, TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:-1, Panico
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1, TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1,DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,Justicia TV
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1, Movistar Formula 1
+http://plexonline.club:25461/live/listalistam3ugratis/1/306.ts
+#EXTINF:-1,FM Hot TV HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1,Futuro Tv
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1,   CANAL 20 ZACATECAS
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist
+#EXTINF:-1,   DIGITAL VISION
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+#EXTINF:-1,   MANGO TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1,   MULTIMEDIOS CITY
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mdstrm.com/live-stream-playlist_1200/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1,   MULTIMEDIOS GUADALAJARA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mdstrm.com/live-stream-playlist_1200/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1,   MULTIMEDIOS LAGUNA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1,   MULTIMEDIOS MONTERREY
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,     MUNDO MAS
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1,    RTQ  QUERETARO
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,   TELE ISLAS
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1,   TELERED
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,   VISION NOTICIAS
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+#EXTINF:-1,    MELODY CHANEL
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,    NEXT TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+#EXTINF:-1,    MORRO TV
+http://cm.hostlagarto.com:8081/morrotv/Morrotv.myStream/chunks.m3u8
+#EXTINF:-1,   paramount chanel
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,   HISTORIA
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1,   AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,    EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,    CANAL 10  CHETUMAL
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,   WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,   TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1,    LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,  AL JASEERA  1
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,  Nuestravision Michoacan
+http://189.204.137.189:8888/m3u8/canal6.m3u8
+#EXTINF:-1,  Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1,  Tansmedia Tv Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1,  HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1,  Top Latino Tv
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1,  Radio Capital Tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+#EXTINF:-1,   Nexxo Tv
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+#EXTINF:-1,   Pinguino Tv
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,   La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1,   All Sport
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,   Max Prime
+http://161.0.157.5/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1,   CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,   Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF:-1,   Acento Tv
+http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1,   Teleuniverso
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w197342393.m3u8
+#EXTINF:-1,   BRAVO
+http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+#EXTINF:-1,  Fuego Tv
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1,  Canal 2
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:-1,  Canal 4
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+#EXTINF:-1,  Canal 8
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:-1,    MILENIO  TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,   DW Entretenimiento
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,   Extrema Tv
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/Extre
